@@ -207,6 +207,7 @@ main {
     color: #ffffff;
   }
   main {
+    margin: 0 auto;
     padding: 6.4rem 8.1rem 0 9.8rem;
     display: flex;
     flex-direction: column;
